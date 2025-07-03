@@ -1,0 +1,5 @@
+homepage: "https://www.tagfacile.it"
+documentation: "https://www.tagfacile.it"
+versions:
+  - sha: 87c181cc228c5738160c8744652952d407f49e4d
+    changeNotes: Prima versione pubblicata del template.
