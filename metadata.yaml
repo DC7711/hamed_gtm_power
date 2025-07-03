@@ -1,5 +1,5 @@
 homepage: "https://www.tagfacile.it"
-documentation: "https://www.tagfacile.it"
+documentation: "https://github.com/DC7711/template_gtm_sheet/blob/main/README.md"
 versions:
   - sha: 87c181cc228c5738160c8744652952d407f49e4d
     changeNotes: Prima versione pubblicata del template.
